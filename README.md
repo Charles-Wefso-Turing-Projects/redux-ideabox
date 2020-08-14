@@ -1,6 +1,6 @@
 ### Setup
 
-This app was created using the `create-react-app` boilerplate.
+This app is an IdeaBox built using Redux.
 
 #### Install Dependencies
 `npm install`  
@@ -8,5 +8,4 @@ This app was created using the `create-react-app` boilerplate.
 #### Start Dev Server
 `npm start`  
 
-### Run Tests
-`npm test`
+
